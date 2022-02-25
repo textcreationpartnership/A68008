@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[The four sons of Aymon]</title>
+            <title>Renaut de Montauban (Chanson de geste). English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1505</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68008</idno>
+            <idno type="STC">STC 1008</idno>
+            <idno type="STC">ESTC S106659</idno>
+            <idno type="EEBO-CITATION">99842372</idno>
+            <idno type="PROQUEST">99842372</idno>
+            <idno type="VID">7019</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68008)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 7019)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 17:11, 21:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[The four sons of Aymon]</title>
+                  <title>Renaut de Montauban (Chanson de geste). English.</title>
+                  <author>Caxton, William, ca. 1422-1491.</author>
+               </titleStmt>
+               <extent>[340+] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Wynkyn de Worde,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1505]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation by William Caxton of: Quatre fils Aimon.</note>
+                  <note>Title page lacking in all known copies.</note>
+                  <note>Place of publication and printer's name supplied and publication date estimated by STC; "A de Worde ed. of 8 May 1504 is mentioned in the colophon of 1010 sqq. and may be this one"--STC.</note>
+                  <note>Signatures: b-z⁶ [et]⁶ A-E⁶ F3,4.</note>
+                  <note>Identified as STC 1009 on UMI microfilm reel 17.</note>
+                  <note>Reproductions of the originals in the British Library and the Cambridge University Library.</note>
+                  <note>Appears at reel 17 (British Library copy) and at reel 21 (Cambridge University Library copy).</note>
+                  <note>Fragment only.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="fragment">
+            <pb facs="tcp:7019:1"/>
+            <gap reason="intruder" extent="1 page">
+               <desc>〈1 page inserted from a different book〉</desc>
+            </gap>
+            <pb facs="tcp:7019:1" rendition="simple:additions"/>
+            <figure>
+               <figDesc>scene from Four Sons of Aymon</figDesc>
+            </figure>
+            <p>IN this party ſheweth thy ſtory that after that Mawgys was retorned agayne to his hermytage / Reynawde was euer after ſory for hym and alſo for his wyfe. But here co<g ref="char:cmbAbbrStroke">̄</g>forted hymſelfe as well as he my<g ref="char:EOLhyphen"/>ghte with his bretherne. A lo<g ref="char:cmbAbbrStroke">̄</g>ge whyle abode Reynawde with his <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>kynge as good there as be cou<g ref="char:EOLunhyphen"/>de / and wyte it that aboute that ty<g ref="char:EOLhyphen"/>me deyed tholde duke Aymo<g ref="char:cmbAbbrStroke">̄</g> whiche lefte grete goodes to his childre<g ref="char:cmbAbbrStroke">̄</g> / but ſhortly to ſpeke Reynawde departed &amp; gaue all his goodes as well that / y<hi rend="sup">t</hi> he had of his owne as that was falle<g ref="char:cmbAbbrStroke">̄</g> by the deth of his fader Aymon vn<g ref="char:EOLhyphen"/>to his bretherne except oonly that he reteyned for hymſelfe the caſtell and towne of Mountawban / and fou<g ref="char:cmbAbbrStroke">̄</g>de the wayes that they were al maryed noble &amp; rychely. Who y<hi rend="sup">t</hi> ſholde ſpeke of the bretherne of Reynawde &amp; of theyr dedes / it were to longe to be re<g ref="char:EOLunhyphen"/>cou<g ref="char:cmbAbbrStroke">̄</g>ted. Reynawde than dwelled lon<g ref="char:EOLunhyphen"/>ge at Mou<g ref="char:cmbAbbrStroke">̄</g>tawban with his children whiche he endoctryned &amp; taughte in all good &amp; vertuous maners as well as he <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that they were men / and coude bere both ſheelde and ſpere. And vpon a daye he hadde theym to the feeld on horſebacke / and made to be brought there ſperes and ſheldes for to aſſaye theymſelfe / and toke with hym twen<g ref="char:EOLunhyphen"/>ty knyghtes / whom whan they were <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omen in the feelde / he made his chil<g ref="char:EOLunhyphen"/>dren to iouſte with. And ye ought to wyte that y<hi rend="sup">e</hi> two ſones of Reynaw<g ref="char:EOLhyphen"/>de iouſted as well as thoughe they had be hauntynge the warre. x. yeres
+<pb facs="tcp:7019:2"/>&amp; more. And whan Reynawde ſawe that they dyde ſo well he called they<g ref="char:cmbAbbrStroke">̄</g> afore hym &amp; afore the knyghtes and ſayd to them. My fayr children than<g ref="char:EOLunhyphen"/>ked be our lorde / ye be talle men and well made of body / It is now tyme that ye were made knyghtes / wher<g ref="char:EOLhyphen"/>fore I wyll that ye go ſerue the ky<g ref="char:cmbAbbrStroke">̄</g>ge Charlemayne your ſouerayne lorde whiche ſhall make you knyghtes / for of more noble hande ye canne not be dowbed to y<hi rend="sup">e</hi> noble ordre of knyghtho<g ref="char:EOLunhyphen"/>de. Syr ſayd Aymonet / we are redy to fulfyll your wyl in euery thynge y<hi rend="sup">t</hi> ye co<g ref="char:cmbAbbrStroke">̄</g>maunde vs. Fader ſayd yonnet ye ſaye well to vs / for it is tyme that we folowe the warres / but ſyth it is your pleaſure to ſende vs to Charle<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> / but it can not be without grete coſt. My ſone ſayd Reynawde / care not for the coſt / for we haue good y<g ref="char:EOLhyphen"/>noughe / gramercy our lorde / for to brynge you there accordyng to your aſtate / &amp; I promyſe you / I ſhall ſen<g ref="char:EOLhyphen"/>de you there or I be. vu. nyghte elder as honourably as ony wente thyder ſyn my tyme. Fader ſayd the chilre<g ref="char:cmbAbbrStroke">̄</g> we are redy to go wha<g ref="char:cmbAbbrStroke">̄</g> it pleaſe you wha Reynawde had ſayd this to his children / he wente home againe to mou<g ref="char:cmbAbbrStroke">̄</g>tawban well ioyfull of his two ſones that proued ſo well / &amp; wha<g ref="char:cmbAbbrStroke">̄</g> he was within his caſtell / he called his ſtywarde and ſayd to hym. Stywar<g ref="char:EOLunhyphen"/>de I co<g ref="char:cmbAbbrStroke">̄</g>maſide you that ye araye my childre<g ref="char:cmbAbbrStroke">̄</g> honorably &amp; rychely of dyuer<g ref="char:EOLunhyphen"/>ſe maners of clothy<g ref="char:cmbAbbrStroke">̄</g>ge &amp; of thynges that longeth of theym / for I wyll ſende them to y<hi rend="sup">e</hi> court of the ky<g ref="char:cmbAbbrStroke">̄</g>ge Charlemayne / for to be made knyghtes of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> &amp; ſe that they go as honeſtly as ony went thyder this xx. yeres My lorde ſayd the ſtywarde / I ſhall well do your co<g ref="char:cmbAbbrStroke">̄</g>maundement ſyth that it pleaſeth you / for ye haue ynough clo<g ref="char:EOLhyphen"/>thes full ryche of your owne of dy<g ref="char:EOLhyphen"/>uerſe colours.</p>
+            <p>WHan the ſtywarde herde y<hi rend="sup">e</hi> co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>maundement of his mayſter without ony taryenge / he dy<g ref="char:EOLhyphen"/>de ryght well all y<hi rend="sup">t</hi> was co<g ref="char:cmbAbbrStroke">̄</g>maunded hym by Reynawde / for he made to be redy many palfreys &amp; courſers well barded &amp; couered with ryche clothe of golde with belles of ſyluer <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gylte in grete plente / &amp; purueyd for two good harneyſes all complete / for ſpe<g ref="char:EOLunhyphen"/>res &amp; ſwerdes and thynges as aperteyneth for the two yonge bachelers. Shortly to ſpe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it was not poſſible to araye better two yonge ſquyres tha<g ref="char:cmbAbbrStroke">̄</g> the two yonge ſo nes of Reynawde were by y<hi rend="sup">e</hi> puruey<g ref="char:EOLhyphen"/>aunce of his ſtywarde / and whan all thynges were redy / he brought them byfore his mayſters. And whan Rey<g ref="char:EOLunhyphen"/>nawde ſawe this he was glad &amp; ſayd by god ſtywarde I conne you tha<g ref="char:cmbAbbrStroke">̄</g>ke that ye haue purueyd ſo well for my childre<g ref="char:cmbAbbrStroke">̄</g> / &amp; Reynawde made. v. C. kny<g ref="char:EOLunhyphen"/>ghtes well redy to bere co<g ref="char:cmbAbbrStroke">̄</g>pany to his ſones. And whan they were all redy Reynawde called to his ſones &amp; ſayd to theym. My fayre ſones ye be well apoynted tha<g ref="char:cmbAbbrStroke">̄</g>ked be god / &amp; here is a fayre bende of noble men to bere you felawſhyp / &amp; therfore ye ſhal now go to y<hi rend="sup">e</hi> courte of Charlemayne our gre<g ref="char:EOLunhyphen"/>te kynge / whiche ſhall make you gre<g ref="char:EOLunhyphen"/>te chere and honour for my loue / my children ye be of hye lynage &amp; ryght noble / &amp; therfore beware y<hi rend="sup">t</hi> ye do node</p>
+            <pb facs="tcp:7019:2"/>
+            <gap reason="intruder" extent="2 pages">
+               <desc>〈2 pages inserted from a different book〉</desc>
+            </gap>
+            <pb facs="tcp:7019:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
